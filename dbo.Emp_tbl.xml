@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_dbo.Emp_tbl>
+<dbo.Emp_tbl Emp_Id="1" Emp_Name="bilal" Emp_Address="karachi" />
+<dbo.Emp_tbl Emp_Id="2" Emp_Name="abc" Emp_Address="islamabad" />
+</table_dbo.Emp_tbl>
+</Data>

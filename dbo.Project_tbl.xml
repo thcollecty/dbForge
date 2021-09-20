@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+<table_dbo.Project_tbl>
+<dbo.Project_tbl ID="1" Name="MOF" />
+<dbo.Project_tbl ID="2" Name="DC" />
+</table_dbo.Project_tbl>
+</Data>
